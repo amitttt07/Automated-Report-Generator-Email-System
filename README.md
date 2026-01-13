@@ -12,7 +12,6 @@ A production-ready business intelligence automation tool that transforms raw dat
 - **Enables overnight processing** for morning meetings
 
 ### Perfect For
-- **Consulting Firms** (Deloitte, PwC, McKinsey, BCG)
 - **Business Analysts**
 - **Data Teams**
 - **Finance Departments**
