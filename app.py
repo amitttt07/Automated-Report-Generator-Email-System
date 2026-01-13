@@ -1,10 +1,4 @@
-"""
-Automated Report Generator & Email System
-Luxury Minimalist UI - Complete Application
-
-A production-ready business intelligence automation tool
-"""
-
+#lib
 import streamlit as st
 import pandas as pd
 from pathlib import Path
